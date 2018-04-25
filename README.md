@@ -1,4 +1,4 @@
-# The largest heading
+# To see example in action
 
 ```
 mvn compile
